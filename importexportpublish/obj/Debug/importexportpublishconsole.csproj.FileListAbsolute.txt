@@ -1,0 +1,10 @@
+C:\Users\rsdiasoliveira\Downloads\sdk4\sdk\server\fullsample\importexportpublish\cs\bin\Debug\ImportExportPublishConsole.exe.config
+C:\Users\rsdiasoliveira\Downloads\sdk4\sdk\server\fullsample\importexportpublish\cs\bin\Debug\ImportExportPublishConsole.exe
+C:\Users\rsdiasoliveira\Downloads\sdk4\sdk\server\fullsample\importexportpublish\cs\bin\Debug\ImportExportPublishConsole.pdb
+C:\Users\rsdiasoliveira\Downloads\sdk4\sdk\server\fullsample\importexportpublish\cs\bin\Debug\Nini.dll
+C:\Users\rsdiasoliveira\Downloads\sdk4\sdk\server\fullsample\importexportpublish\cs\bin\Debug\Nini.pdb
+C:\Users\rsdiasoliveira\Downloads\sdk4\sdk\server\fullsample\importexportpublish\cs\obj\Debug\Interop.Shell32.dll
+C:\Users\rsdiasoliveira\Downloads\sdk4\sdk\server\fullsample\importexportpublish\cs\obj\Debug\importexportpublishconsole.csproj.ResolveComReference.cache
+C:\Users\rsdiasoliveira\Downloads\sdk4\sdk\server\fullsample\importexportpublish\cs\obj\Debug\ImportExportPublishConsole.exe
+C:\Users\rsdiasoliveira\Downloads\sdk4\sdk\server\fullsample\importexportpublish\cs\obj\Debug\ImportExportPublishConsole.pdb
+C:\Users\rsdiasoliveira\Downloads\sdk4\sdk\server\fullsample\importexportpublish\cs\obj\Debug\importexportpublishconsole.csprojResolveAssemblyReference.cache
