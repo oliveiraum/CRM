@@ -5,7 +5,7 @@
       <ObjectTypeCode>10000</ObjectTypeCode>
       <EntityInfo>
         <entity Name="New_bankaccount">
-          <HasRelatedNotes>False</HasRelatedNotes>
+          <HasRelatedNotes>True</HasRelatedNotes>
           <HasRelatedActivities>True</HasRelatedActivities>
           <ObjectTypeCode>10000</ObjectTypeCode>
           <CollectionName>New_bankaccounts</CollectionName>
